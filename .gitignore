@@ -337,3 +337,4 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,windows,linux,macos,android,xcode,androidstudio,visualstudiocode
+shop_app/
